@@ -17,8 +17,8 @@ Initial goals:
 - [ ] Allowing placing a tile in RAW method: 1st ring complete before placing in 2nd ring, 2nd ring complete before placing in 3rd ring, anomalies not adjacent unless no other valid placement, green backed system only in corner hexes
 - [ ] Interoperability with existing online map generators/viewers (i.e. adopting spiral-like system ordering)
 
-Strect goals:
-- [ ] Player count selection, with hyperlanes automatically added and considered for anomaly placement
+Stretch goals:
+- [ ] Player count selection (4-8 inclusive), with hyperlanes automatically added and considered for anomaly placement
 - [ ] Twilight Falls drafting support, by drafting the relevant parts of the faction cards
 - [ ] Graphical support, either as a TypeScript web GUI or CLI rendering
 - [ ] Support for other game modes (Minor Factions?)
