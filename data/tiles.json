@@ -1,0 +1,1305 @@
+[
+    {
+        "id": 1,
+        "planets": [
+            {
+                "name": "Jord",
+                "resources": 4,
+                "influence": 2
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 2,
+        "planets": [
+            {
+                "name": "Moll Primus",
+                "resources": 4,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 3,
+        "planets": [
+            {
+                "name": "Darien",
+                "resources": 4,
+                "influence": 4
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 4,
+        "planets": [
+            {
+                "name": "Muaat",
+                "resources": 4,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 5,
+        "planets": [
+            {
+                "name": "Nestphar",
+                "resources": 3,
+                "influence": 2
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 6,
+        "planets": [
+            {
+                "name": "[0.0.0]",
+                "resources": 5,
+                "influence": 0
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 7,
+        "planets": [
+            {
+                "name": "Winnu",
+                "resources": 3,
+                "influence": 4
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 8,
+        "planets": [
+            {
+                "name": "Mordai II",
+                "resources": 4,
+                "influence": 0
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 9,
+        "planets": [
+            {
+                "name": "Maaluuk",
+                "resources": 0,
+                "influence": 2
+            },
+            {
+                "name": "Druaa",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 10,
+        "planets": [
+            {
+                "name": "Arc Prime",
+                "resources": 4,
+                "influence": 0
+            },
+            {
+                "name": "Wren Terra",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 11,
+        "planets": [
+            {
+                "name": "Lisis II",
+                "resources": 1,
+                "influence": 0
+            },
+            {
+                "name": "Ragh",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 12,
+        "planets": [
+            {
+                "name": "Nar",
+                "resources": 2,
+                "influence": 3
+            },
+            {
+                "name": "Jol",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 13,
+        "planets": [
+            {
+                "name": "Tren'Lak",
+                "resources": 1,
+                "influence": 0
+            },
+            {
+                "name": "Quinarra",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 14,
+        "planets": [
+            {
+                "name": "Archon Ren",
+                "resources": 2,
+                "influence": 3
+            },
+            {
+                "name": "Archon Tau",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 15,
+        "planets": [
+            {
+                "name": "Retillion",
+                "resources": 2,
+                "influence": 3
+            },
+            {
+                "name": "Shalloq",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 16,
+        "planets": [
+            {
+                "name": "Arretze",
+                "resources": 2,
+                "influence": 0
+            },
+            {
+                "name": "Hercant",
+                "resources": 1,
+                "influence": 1
+            },
+            {
+                "name": "Kamdorn",
+                "resources": 0,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 17,
+        "wormholes": [
+            "Delta"
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 19,
+        "planets": [
+            {
+                "name": "Wellon",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 20,
+        "planets": [
+            {
+                "name": "Vefut II",
+                "resources": 2,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 21,
+        "planets": [
+            {
+                "name": "Thibah",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 22,
+        "planets": [
+            {
+                "name": "Tar'Mann",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 23,
+        "planets": [
+            {
+                "name": "Saudor",
+                "resources": 2,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 24,
+        "planets": [
+            {
+                "name": "Mehar Xull",
+                "resources": 1,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 25,
+        "planets": [
+            {
+                "name": "Quann",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "wormholes": [
+            "Beta"
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 26,
+        "planets": [
+            {
+                "name": "Lodor",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "wormholes": [
+            "Alpha"
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 27,
+        "planets": [
+            {
+                "name": "New Albion",
+                "resources": 1,
+                "influence": 1
+            },
+            {
+                "name": "Starpoint",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 28,
+        "planets": [
+            {
+                "name": "Tequ'ran",
+                "resources": 2,
+                "influence": 0
+            },
+            {
+                "name": "Torkan",
+                "resources": 0,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 29,
+        "planets": [
+            {
+                "name": "Qucen'n",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Rarron",
+                "resources": 0,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 30,
+        "planets": [
+            {
+                "name": "Mellon",
+                "resources": 0,
+                "influence": 2
+            },
+            {
+                "name": "Zohbat",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 31,
+        "planets": [
+            {
+                "name": "Lazar",
+                "resources": 1,
+                "influence": 0
+            },
+            {
+                "name": "Sakulag",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 32,
+        "planets": [
+            {
+                "name": "Dal Bootha",
+                "resources": 0,
+                "influence": 2
+            },
+            {
+                "name": "Xxehan",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 33,
+        "planets": [
+            {
+                "name": "Coorneeq",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Resculon",
+                "resources": 2,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 34,
+        "planets": [
+            {
+                "name": "Centauri",
+                "resources": 1,
+                "influence": 3
+            },
+            {
+                "name": "Gral",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 35,
+        "planets": [
+            {
+                "name": "Bereg",
+                "resources": 3,
+                "influence": 1
+            },
+            {
+                "name": "Lirta IV",
+                "resources": 2,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 36,
+        "planets": [
+            {
+                "name": "Arnor",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Lor",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 37,
+        "planets": [
+            {
+                "name": "Arinam",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Meer",
+                "resources": 0,
+                "influence": 4
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 38,
+        "planets": [
+            {
+                "name": "Abyz",
+                "resources": 3,
+                "influence": 0
+            },
+            {
+                "name": "Fria",
+                "resources": 2,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 39,
+        "wormholes": [
+            "Alpha"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 40,
+        "wormholes": [
+            "Beta"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 41,
+        "anomalies": [
+            "GravityRift"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 42,
+        "anomalies": [
+            "Nebula"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 43,
+        "anomalies": [
+            "Supernova"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 44,
+        "anomalies": [
+            "AsteroidField"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 45,
+        "anomalies": [
+            "AsteroidField"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 46,
+        "back": "Red"
+    },
+    {
+        "id": 47,
+        "back": "Red"
+    },
+    {
+        "id": 48,
+        "back": "Red"
+    },
+    {
+        "id": 49,
+        "back": "Red"
+    },
+    {
+        "id": 50,
+        "back": "Red"
+    },
+    {
+        "id": 52,
+        "planets": [
+            {
+                "name": "Ixth",
+                "resources": 3,
+                "influence": 5
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 53,
+        "planets": [
+            {
+                "name": "Arcturus",
+                "resources": 4,
+                "influence": 4
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 54,
+        "planets": [
+            {
+                "name": "Acheron",
+                "resources": 4,
+                "influence": 0
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 55,
+        "planets": [
+            {
+                "name": "Elysium",
+                "resources": 4,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 56,
+        "planets": [
+            {
+                "name": "The Dark",
+                "resources": 3,
+                "influence": 4
+            }
+        ],
+        "anomalies": [
+            "Nebula"
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 57,
+        "planets": [
+            {
+                "name": "Naaz",
+                "resources": 2,
+                "influence": 1
+            },
+            {
+                "name": "Rokha",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 58,
+        "planets": [
+            {
+                "name": "Valk",
+                "resources": 2,
+                "influence": 0
+            },
+            {
+                "name": "Yur",
+                "resources": 0,
+                "influence": 2
+            },
+            {
+                "name": "Avar",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 59,
+        "planets": [
+            {
+                "name": "Archon Vail",
+                "resources": 1,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 60,
+        "planets": [
+            {
+                "name": "Perimeter",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 61,
+        "planets": [
+            {
+                "name": "Ang",
+                "resources": 2,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 62,
+        "planets": [
+            {
+                "name": "SemLore",
+                "resources": 3,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 63,
+        "planets": [
+            {
+                "name": "Vorhal",
+                "resources": 0,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 64,
+        "planets": [
+            {
+                "name": "Atlas",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "wormholes": [
+            "Beta"
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 65,
+        "planets": [
+            {
+                "name": "Primor",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 66,
+        "planets": [
+            {
+                "name": "Hope's End",
+                "resources": 3,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 67,
+        "planets": [
+            {
+                "name": "Cormund",
+                "resources": 2,
+                "influence": 0
+            }
+        ],
+        "anomalies": [
+            "GravityRift"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 68,
+        "planets": [
+            {
+                "name": "Everra",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "anomalies": [
+            "Nebula"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 69,
+        "planets": [
+            {
+                "name": "Accoen",
+                "resources": 2,
+                "influence": 3
+            },
+            {
+                "name": "Joel Ir",
+                "resources": 2,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 70,
+        "planets": [
+            {
+                "name": "Kraag",
+                "resources": 2,
+                "influence": 1
+            },
+            {
+                "name": "Siig",
+                "resources": 0,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 71,
+        "planets": [
+            {
+                "name": "Bakal",
+                "resources": 3,
+                "influence": 2
+            },
+            {
+                "name": "Alio Prima",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 72,
+        "planets": [
+            {
+                "name": "Lisis",
+                "resources": 2,
+                "influence": 2
+            },
+            {
+                "name": "Velnor",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 73,
+        "planets": [
+            {
+                "name": "Cealdri",
+                "resources": 0,
+                "influence": 2
+            },
+            {
+                "name": "Xanhact",
+                "resources": 0,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 74,
+        "planets": [
+            {
+                "name": "Vega Major",
+                "resources": 2,
+                "influence": 1
+            },
+            {
+                "name": "Vega Minor",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 75,
+        "planets": [
+            {
+                "name": "Abaddon",
+                "resources": 1,
+                "influence": 0
+            },
+            {
+                "name": "Loki",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Ashtroth",
+                "resources": 2,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 76,
+        "planets": [
+            {
+                "name": "Rigel I",
+                "resources": 0,
+                "influence": 1
+            },
+            {
+                "name": "Rigel II",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Rigel III",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 77,
+        "back": "Red"
+    },
+    {
+        "id": 78,
+        "back": "Red"
+    },
+    {
+        "id": 79,
+        "anomalies": [
+            "AsteroidField"
+        ],
+        "wormholes": [
+            "Alpha"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 80,
+        "anomalies": [
+            "Supernova"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 92,
+        "planets": [
+            {
+                "name": "Ordinian",
+                "resources": 0,
+                "influence": 0
+            }
+        ],
+        "space_stations": [
+            {
+                "name": "Revelation",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "anomalies": [
+            "Nebula"
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 93,
+        "planets": [
+            {
+                "name": "Mez Lo Orz Pei Zsha",
+                "resources": 2,
+                "influence": 1
+            },
+            {
+                "name": "Rep Lo Orz Oet",
+                "resources": 1,
+                "influence": 3
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 94,
+        "wormholes": [
+            "Epsilon"
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 95,
+        "planets": [
+            {
+                "name": "Ikatena",
+                "resources": 4,
+                "influence": 4
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 96,
+        "planets": [
+            {
+                "name": "Cronos",
+                "resources": 2,
+                "influence": 1
+            },
+            {
+                "name": "Tallin",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "back": "Green"
+    },
+    {
+        "id": 97,
+        "planets": [
+            {
+                "name": "Faunus",
+                "resources": 1,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 98,
+        "planets": [
+            {
+                "name": "Garbozia",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 99,
+        "planets": [
+            {
+                "name": "Emelpar",
+                "resources": 0,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 100,
+        "planets": [
+            {
+                "name": "Tempesta",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 101,
+        "planets": [
+            {
+                "name": "Olergodt",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 102,
+        "planets": [
+            {
+                "name": "Andeara",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "wormholes": [
+            "Alpha"
+        ],
+        "back":"Blue"
+    },
+    {
+        "id": 103,
+        "planets": [
+            {
+                "name": "ViraPics III",
+                "resources": 2,
+                "influence": 3
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 104,
+        "planets": [
+            {
+                "name": "Lesab",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 105,
+        "planets": [
+            {
+                "name": "New Terra",
+                "resources": 1,
+                "influence": 1
+            },
+            {
+                "name": "Tinnes",
+                "resources": 2,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 106,
+        "planets": [
+            {
+                "name": "Cresius",
+                "resources": 0,
+                "influence": 1
+            },
+            {
+                "name": "Lazul Rex",
+                "resources": 2,
+                "influence": 2
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 107,
+        "planets": [
+            {
+                "name": "Tiamat",
+                "resources": 2,
+                "influence": 1
+            },
+            {
+                "name": "Hercalor",
+                "resources": 1,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 108,
+        "planets": [
+            {
+                "name": "Kosboth",
+                "resources": 0,
+                "influence": 1
+            },
+            {
+                "name": "Capha",
+                "resources": 3,
+                "influence": 0
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 109,
+        "planets": [
+            {
+                "name": "Bellatrix",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "space_stations": [
+            {
+                "name": "Tsion Station",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 110,
+        "planets": [
+            {
+                "name": "Horizon",
+                "resources": 1,
+                "influence": 2
+            },
+            {
+                "name": "Elnath",
+                "resources": 2,
+                "influence": 0
+            },
+            {
+                "name": "Luthien VI",
+                "resources": 3,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 111,
+        "planets": [
+            {
+                "name": "Tarana",
+                "resources": 1,
+                "influence": 2
+            }
+        ],
+        "space_stations": [
+            {
+                "name": "Oluz Station",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "back": "Blue"
+    },
+    {
+        "id": 113,
+        "anomalies": [
+            "GravityRift"
+        ],
+        "wormholes": [
+            "Beta"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 114,
+        "anomalies": [
+            "EntropicScar"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 115,
+        "planets": [
+            {
+                "name": "Industrex",
+                "resources": 2,
+                "influence": 0
+            }
+        ],
+        "anomalies": [
+            "AsteroidField"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 116,
+        "planets": [
+            {
+                "name": "Lemox",
+                "resources": 0,
+                "influence": 3
+            }
+        ],
+        "anomalies": [
+            "EntropicScar"
+        ],
+        "back": "Red"
+    },
+    {
+        "id": 117,
+        "space_stations": [
+            {
+                "name": "The Watchtower",
+                "resources": 1,
+                "influence": 1
+            }
+        ],
+        "anomalies": [
+            "GravityRift",
+            "AsteroidField"
+        ],
+        "back": "Red"
+    }
+]
